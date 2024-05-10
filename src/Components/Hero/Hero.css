@@ -29,8 +29,8 @@
   }
   
   .img {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     animation: resize 4s infinite; /* Adjust duration as needed */
   }
   
